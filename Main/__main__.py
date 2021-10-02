@@ -6,6 +6,9 @@ def main():
 
 
     print("Welcome to our collaborative program.")
+    isaias_greeting()
+    asler_greeting()
+    portugal_greeting()
 
 if __name__ == '__main__':
     main()
