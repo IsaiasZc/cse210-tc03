@@ -1,5 +1,5 @@
 from zuniga import isaias_greeting
-from asler import greetings
+from asler import asler_greeting
 from portugal import portugal_greeting
 
 def main():

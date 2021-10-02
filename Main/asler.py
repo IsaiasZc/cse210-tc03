@@ -1,5 +1,3 @@
-def main():
+def asler_greeting():
     print(("Hello all, this Daniel Ašler"))
 
-if __name__ == "__main__":
-    main()
