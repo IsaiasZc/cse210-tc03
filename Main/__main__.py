@@ -1,1 +1,1 @@
-Welcome to our collaborative program.
+print("Welcome to our collaborative program.")
